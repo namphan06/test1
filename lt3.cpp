@@ -53,7 +53,7 @@ int main(int argc , char *argv[]){
     cout<<"N : "<<n<<endl;
     cout<<"Path : "<<path<<endl;
     double sum =0.0;
-    vector <int> dd = {0,2,8,3,6,1,0};
+   /* vector <int> dd = {0,2,8,3,6,1,0};
     for(i=0;i<dd.size()-1;i++){
         int id_i= dd[i];
         int id_j= dd[i+1];
@@ -62,7 +62,7 @@ int main(int argc , char *argv[]){
         
         double kc = sqprt((nodei.x-nodej.x)*(nodei.x-nodej.x)+(nodei.y-nodej.y)*(nodei.y-nodej.y));
         sum +=kc;
-    }
+    }*/
     /*inFile.open(path);
     vector<tt> v1;
     tt dd;
@@ -83,4 +83,5 @@ int main(int argc , char *argv[]){
     vector<int> v2 = {0,1,3,7,6};
     cout<<"Tong khoang cach 0-1-3-7-6-0 la : ";
     cout<<sumdistance(v1,v2);*/
+    
 }

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462517308515",
+    "project_id": "campus-catalogue-c67bb",
+    "storage_bucket": "campus-catalogue-c67bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462517308515:android:b05854ebca6de05d273c56",
+        "android_client_info": {
+          "package_name": "com.example.c_c"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHdLY3X7Hu__8UKseadsnhqpqe-hG5Uoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
